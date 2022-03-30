@@ -35,6 +35,10 @@
 'UNUserNotificationCenter'
 'UINotificationFeedbackGenerator'
 ```
+
+## Issue
+
+
 ## View
 ### 1. 메인 화면
 <img src = "https://user-images.githubusercontent.com/22907483/158623910-c2cdbef8-7d8e-491b-8ea6-737858aec5cc.PNG" width= "25%">
